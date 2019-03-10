@@ -106,7 +106,7 @@ void loop(void) {
     }
 }
  
-int main() {
+int mainc() {
     setup();
     while(1) {
         loop();
